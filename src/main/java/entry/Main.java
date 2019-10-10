@@ -46,7 +46,7 @@
         String fileOrDir       = getProperty("FileOrDir")          ;
         String _mediaType      = getProperty("MediaType")          ;
         String _url            = getProperty("Url")                ;
-        String namespace       = getProperty("Namespace")          ;
+        String namespace       = getProperty("NameSpace")          ;
         String _connectTimeOut = getProperty("ConnectTimeOut")     ;
         String _writeTimeOut   = getProperty("WriteTimeOut")       ;
         String _readTimeOut    = getProperty("ReadTimeOut")        ;
