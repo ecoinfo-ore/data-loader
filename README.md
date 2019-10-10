@@ -23,6 +23,7 @@ Example :
           -DConnectTimeOut=60                          \
           -DWriteTimeOut=60                            \
           -DReadTimeOut=60                             \
+          -RemoveOnLoad=true                           \
           -jar data-loader-1.0-jar-with-dependencies.jar 
 
 ```
